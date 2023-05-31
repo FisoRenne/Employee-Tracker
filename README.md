@@ -1,1 +1,2 @@
 # Module12Challenge
+Project that uses inquirer, mysql, and javascript to create a functioning employee tracker that can show employees with roles, departments as well as add new employee, role or department. You can also update employee roles. 
